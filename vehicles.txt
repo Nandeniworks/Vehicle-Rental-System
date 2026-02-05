@@ -1,0 +1,16 @@
+Car BMW
+15000 Rented
+Car BMW
+10000 Rented
+Car Mercedes 
+15000 Rented
+Car Mercedes
+10000 Rented
+Bike Pulsar
+2500 Rented
+Bike pulsar
+3500 Available
+Bike kawasaki
+10000 Available
+Bike activa
+500 Available
